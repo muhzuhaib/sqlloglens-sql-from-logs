@@ -2,7 +2,7 @@
 
 Support, documentation and legal documents for the **SqlLogLens** plugin for JetBrains IDEs.
 
-**Marketplace listing:** *(added when the plugin is published)*
+**[Get it on the JetBrains Marketplace](https://plugins.jetbrains.com/plugin/34505-sqlloglens--restore-sql-from-logs)**
 
 **This repository holds no source code.** It exists so that the plugin has a real issue tracker and
 real documentation, both linked from the Marketplace listing.
